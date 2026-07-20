@@ -1,0 +1,6 @@
+a=int(input("a:"))
+b=int(input("b:"))
+print((a > 10) and (a < 50))
+print((a<0) or (a>100))
+print(not(a>b))
+print((a>0) and (b>0))
