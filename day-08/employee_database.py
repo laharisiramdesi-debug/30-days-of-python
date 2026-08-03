@@ -1,0 +1,18 @@
+employes={
+    "employe1":{
+        "name":"lahari",
+        "department":"csc",
+        "role":"student"
+    },
+    "employe2":{
+        "name":"charan",
+        "department":"csc",
+        "role":"student"
+    },
+    "employe3":{
+        "name":"madhu",
+        "department":"csc",
+        "role":"student"
+    }
+}
+print(employes["employe1"]["department"])
